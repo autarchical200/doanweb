@@ -444,6 +444,7 @@ header .search-bar-container label:hover{
 }
 .swiper-wrapper {
   flex-direction: column;
+  flex:flex;
 }
 .review .box{
   padding:2rem;
